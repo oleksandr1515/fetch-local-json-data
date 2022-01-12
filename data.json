@@ -1,0 +1,27 @@
+[
+  {
+    "task": "Обрахувати поточні витрати",
+    "responsible": "Сергій",
+    "imgsrc": "./data-img-done.png"
+  }, 
+  {
+    "task": "Замовити нову партію товару",
+    "responsible": "Петро",
+    "imgsrc": "./data-img-failed.png"
+  }, 
+  {
+    "task": "Зробити системний аналіз",
+    "responsible": "Марина",
+    "imgsrc": "./data-img-done.png"
+  }, 
+  {
+    "task": "Знайти потенційних покупців",
+    "responsible": "Яна",
+    "imgsrc": "./data-img-failed.png"
+  }, 
+  {
+    "task": "Домовитись з посередником",
+    "responsible": "Василь",
+    "imgsrc": "./data-img-done.png"
+  } 
+]
